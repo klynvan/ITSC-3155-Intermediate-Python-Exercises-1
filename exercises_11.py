@@ -10,6 +10,6 @@ def get_unique_list(usr_list):
 
 
 my_list = [1, 2, 3, 2, 1, 4]
-unique_list = get_unisue_list(my_list)
+unique_list = get_unqiue_list(my_list)
 # print(my_list)
 print(unique_list)
